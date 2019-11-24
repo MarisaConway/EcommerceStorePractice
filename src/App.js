@@ -16,7 +16,7 @@ class App extends Component {
       <div className="Main-page">
       <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <h2> Welcome to Ecommerce Page </h2>
+        <h2> Welcome to Marisa's Ecommerce Page </h2>
       </header>
       <Coursesales items={courses} />
       </div>
